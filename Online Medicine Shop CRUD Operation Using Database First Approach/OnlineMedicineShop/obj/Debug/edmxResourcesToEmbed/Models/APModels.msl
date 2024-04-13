@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="APModelStoreContainer" CdmEntityContainer="APDbContext">
+    <EntitySetMapping Name="Invoices">
+      <EntityTypeMapping TypeName="APModel.Invoice">
+        <MappingFragment StoreEntitySet="Invoices">
+          <ScalarProperty Name="InvoiceID" ColumnName="InvoiceID" />
+          <ScalarProperty Name="VendorID" ColumnName="VendorID" />
+          <ScalarProperty Name="InvoiceNumber" ColumnName="InvoiceNumber" />
+          <ScalarProperty Name="InvoiceDate" ColumnName="InvoiceDate" />
+          <ScalarProperty Name="InvoiceTotal" ColumnName="InvoiceTotal" />
+          <ScalarProperty Name="PaymentTotal" ColumnName="PaymentTotal" />
+          <ScalarProperty Name="CreditTotal" ColumnName="CreditTotal" />
+          <ScalarProperty Name="TermsID" ColumnName="TermsID" />
+          <ScalarProperty Name="InvoiceDueDate" ColumnName="InvoiceDueDate" />
+          <ScalarProperty Name="PaymentDate" ColumnName="PaymentDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vendors">
+      <EntityTypeMapping TypeName="APModel.Vendor">
+        <MappingFragment StoreEntitySet="Vendors">
+          <ScalarProperty Name="VendorID" ColumnName="VendorID" />
+          <ScalarProperty Name="VendorName" ColumnName="VendorName" />
+          <ScalarProperty Name="VendorAddress1" ColumnName="VendorAddress1" />
+          <ScalarProperty Name="VendorAddress2" ColumnName="VendorAddress2" />
+          <ScalarProperty Name="VendorCity" ColumnName="VendorCity" />
+          <ScalarProperty Name="VendorState" ColumnName="VendorState" />
+          <ScalarProperty Name="VendorZipCode" ColumnName="VendorZipCode" />
+          <ScalarProperty Name="VendorPhone" ColumnName="VendorPhone" />
+          <ScalarProperty Name="VendorContactLName" ColumnName="VendorContactLName" />
+          <ScalarProperty Name="VendorContactFName" ColumnName="VendorContactFName" />
+          <ScalarProperty Name="DefaultTermsID" ColumnName="DefaultTermsID" />
+          <ScalarProperty Name="DefaultAccountNo" ColumnName="DefaultAccountNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

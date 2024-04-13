@@ -1,0 +1,84 @@
+﻿@using OnlineMedicineShop.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Log in";
+}
+
+<style>
+    main {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start; 
+        height: 100vh;
+    }
+
+    .login-container {
+        background-color: #3498db; 
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+        color: #333;
+        width: 400px;
+        margin-top: 200px; 
+    }
+
+    .form-control {
+        margin-bottom: 20px;
+    }
+
+    .btn-login {
+        background-color: #2980b9;
+        border: none;
+        color: #fff;
+        padding: 15px;
+        border-radius: 6px;
+        cursor: pointer;
+    }
+
+        .btn-login:hover {
+            background-color: #2c3e50;
+        }
+
+    .register-link {
+        color: #333;
+    }
+
+        .register-link:hover {
+            text-decoration: underline;
+        }
+</style>
+
+<main>
+    <div class="login-container">
+        @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { role = "form" }))
+        {
+            @Html.AntiForgeryToken()
+            <h2>Log in</h2>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            @Html.LabelFor(m => m.Email, new { @class = "form-label" })
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+
+            @Html.LabelFor(m => m.Password, new { @class = "form-label" })
+            @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+
+            <div class="checkbox">
+                @Html.CheckBoxFor(m => m.RememberMe)
+                @Html.LabelFor(m => m.RememberMe)
+            </div>
+
+            <input type="submit" value="Log in" class="btn btn-login" />
+
+            <p class="register-link">
+                @Html.ActionLink("Register as a new user", "Register")
+            </p>
+        }
+    </div>
+</main>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

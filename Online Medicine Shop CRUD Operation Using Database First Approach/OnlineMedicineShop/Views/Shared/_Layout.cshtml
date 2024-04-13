@@ -1,0 +1,101 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - MedicineShop</title>
+    <link href="~/Content/font-awesome.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-3.7.1.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+
+    <!-- Updated Bootstrap Styles -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <style>
+        body {
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        nav.navbar {
+            background-color: #007bff; /* Blue */
+        }
+
+            nav.navbar a.navbar-brand,
+            nav.navbar ul.navbar-nav li a.nav-link {
+                color: #fff;
+            }
+
+            nav.navbar button.navbar-toggler-icon {
+                border-color: #fff;
+            }
+
+            nav.navbar button.navbar-toggler-icon,
+            nav.navbar button.navbar-toggler {
+                background-color: #fff;
+            }
+
+        .container-fluid.body-content {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        footer.container-fluid.text-center {
+            background-color: #343a40;
+            padding: 10px;
+            color: #fff;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark">
+        <div class="container-fluid">
+            @Html.ActionLink("MedicineShop", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target=".navbar-collapse" title="Toggle navigation" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav flex-grow-1">
+                    <li>@Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Manufacturer", "Index", "Manufacturers", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("MedicineModels", "Index", "MedicineModels", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Medicine", "Index", "Medicines", new { area = "" }, new { @class = "nav-link" })</li>
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </nav>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
+    <div class="container-fluid body-content">
+        @RenderBody()
+        <hr />
+    </div>
+
+    <footer class="container-fluid text-center">
+        <p>&copy; @DateTime.Now.Year - isdb-bisew.org</p>
+    </footer>
+
+    <!-- Updated Bootstrap and jQuery Scripts -->
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    @RenderSection("styles", required: false)
+</body>
+</html>

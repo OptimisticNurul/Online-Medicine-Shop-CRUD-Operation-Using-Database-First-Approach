@@ -1,0 +1,60 @@
+﻿@model OnlineMedicineShop.Models.RegisterViewModel
+@{
+    ViewBag.Title = "Register";
+}
+
+<style>
+    .card {
+        width: 300px;
+        margin: 50px auto;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        background-color: #3498db; 
+        padding: 20px;
+        border-radius: 8px; 
+        color: #fff;
+    }
+
+    .form-label {
+        color: #fff; 
+    }
+</style>
+
+<main aria-labelledby="title">
+    <h2 id="title" class="text-center mt-5">Create a new account</h2>
+    <div class="card">
+        @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { role = "form" }))
+        {
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary("", new { @class = "text-danger" })
+
+            <div class="mb-3">
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Email, new { @class = "form-label" })
+                    @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "Enter your email" })
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Password, new { @class = "form-label" })
+                    @Html.PasswordFor(m => m.Password, new { @class = "form-control", placeholder = "Enter your password" })
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <div class="form-group">
+                    @Html.LabelFor(m => m.ConfirmPassword, new { @class = "form-label" })
+                    @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control", placeholder = "Confirm password" })
+                </div>
+            </div>
+
+            <div class="text-center">
+                <button type="submit" class="btn btn-light">Register</button>
+            </div>
+        }
+    </div>
+</main>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

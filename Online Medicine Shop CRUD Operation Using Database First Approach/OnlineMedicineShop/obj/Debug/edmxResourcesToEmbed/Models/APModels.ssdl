@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="APModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Invoices">
+    <Key>
+      <PropertyRef Name="InvoiceID" />
+    </Key>
+    <Property Name="InvoiceID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="VendorID" Type="int" Nullable="false" />
+    <Property Name="InvoiceNumber" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="InvoiceDate" Type="smalldatetime" Nullable="false" />
+    <Property Name="InvoiceTotal" Type="money" Nullable="false" />
+    <Property Name="PaymentTotal" Type="money" Nullable="false" />
+    <Property Name="CreditTotal" Type="money" Nullable="false" />
+    <Property Name="TermsID" Type="int" Nullable="false" />
+    <Property Name="InvoiceDueDate" Type="smalldatetime" Nullable="false" />
+    <Property Name="PaymentDate" Type="smalldatetime" />
+  </EntityType>
+  <EntityType Name="Vendors">
+    <Key>
+      <PropertyRef Name="VendorID" />
+    </Key>
+    <Property Name="VendorID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="VendorName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="VendorAddress1" Type="varchar" MaxLength="50" />
+    <Property Name="VendorAddress2" Type="varchar" MaxLength="50" />
+    <Property Name="VendorCity" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="VendorState" Type="char" MaxLength="2" Nullable="false" />
+    <Property Name="VendorZipCode" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="VendorPhone" Type="varchar" MaxLength="50" />
+    <Property Name="VendorContactLName" Type="varchar" MaxLength="50" />
+    <Property Name="VendorContactFName" Type="varchar" MaxLength="50" />
+    <Property Name="DefaultTermsID" Type="int" Nullable="false" />
+    <Property Name="DefaultAccountNo" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Invoices_Vendors">
+    <End Role="Vendors" Type="Self.Vendors" Multiplicity="1" />
+    <End Role="Invoices" Type="Self.Invoices" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Vendors">
+        <PropertyRef Name="VendorID" />
+      </Principal>
+      <Dependent Role="Invoices">
+        <PropertyRef Name="VendorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="APModelStoreContainer">
+    <EntitySet Name="Invoices" EntityType="Self.Invoices" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Vendors" EntityType="Self.Vendors" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Invoices_Vendors" Association="Self.FK_Invoices_Vendors">
+      <End Role="Vendors" EntitySet="Vendors" />
+      <End Role="Invoices" EntitySet="Invoices" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

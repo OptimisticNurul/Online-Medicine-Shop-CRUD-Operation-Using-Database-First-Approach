@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="display-4">Medicine List</h2>
+<div class="row">
+    <div class="col">
+        <div class="d-flex justify-content-end mb-3">
+            <a href="@Url.Action("Create", "Medicines")" class="btn btn-outline-primary btn-sm"><i class="bi bi-plus-circle"></i> Add New Medicine</a>
+        </div>
+        <div id="table-div">
+            @Html.Action("MedicineDetails")
+        </div>
+
+        <!-- Pagination Section -->
+        <div class="d-flex justify-content-center">
+            <ul class="pagination">
+                <li class="page-item"><a class="page-link" href="#">1</a></li>
+                <li class="page-item"><a class="page-link" href="#">2</a></li>
+                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                <!-- Add more pages based on your needs -->
+            </ul>
+        </div>
+    </div>
+</div>
+
+@section styles{
+    <!-- Option 1: Include in HTML -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+}
+
+@section scripts{
+    <script src="~/Scripts/jquery-3.7.1.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+
+    <script>
+        $(document).on("click", "button.show", function () {
+            var showBtn = $(this);
+            var hideBtn = showBtn.next();
+            var trSh = showBtn.closest("tr");
+            var trSt = trSh.next();
+            showBtn.hide();
+            hideBtn.show();
+            trSt.show();
+        });
+
+        $(document).on("click", "button.hide", function () {
+            var hideBtn = $(this);
+            var showBtn = hideBtn.prev();
+            var trSh = showBtn.closest("tr");
+            var trSt = trSh.next();
+            showBtn.show();
+            hideBtn.hide();
+            trSt.hide();
+        });
+    </script>
+}

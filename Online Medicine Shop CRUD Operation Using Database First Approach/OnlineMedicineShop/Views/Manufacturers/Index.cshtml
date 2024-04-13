@@ -1,0 +1,45 @@
+﻿@model IEnumerable<OnlineMedicineShop.Models.Manufacturer>
+
+@{
+    ViewBag.Title = "Manufacturer Index";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">Manufacturer</h2>
+
+    <div class="row mt-4">
+        <div class="col-md-10 offset-md-1">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Manufacturer Name</th>
+                        <th class="text-right">Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@Html.DisplayFor(modelItem => item.ManufacturerName)</td>
+                            <td class="text-right">
+                                <div class="btn-group" role="group">
+                                    @Html.ActionLink("Edit", "Edit", new { id = item.ManufacturerId }, new { @class = "btn btn-outline-primary btn-sm" })
+                                    @Html.ActionLink("Details", "Details", new { id = item.ManufacturerId }, new { @class = "btn btn-outline-info btn-sm" })
+                                    @Html.ActionLink("Delete", "Delete", new { id = item.ManufacturerId }, new { @class = "btn btn-outline-danger btn-sm" })
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="row mt-3">
+        <div class="col-md-10 offset-md-1">
+            <div class="text-right">
+                @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-primary" })
+            </div>
+        </div>
+    </div>
+</div>

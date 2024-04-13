@@ -1,0 +1,456 @@
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\OnlineMedicineShop.dll.config
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\OnlineMedicineShop.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\OnlineMedicineShop.pdb
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csc.exe
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csc.exe.config
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csc.rsp
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csi.exe
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csi.exe.config
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csi.rsp
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.AppContext.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Console.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Net.Http.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\vbc.exe
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\vbc.exe.config
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\vbc.rsp
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Antlr3.Runtime.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\EntityFramework.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Newtonsoft.Json.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Owin.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Helpers.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Mvc.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Optimization.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Razor.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\WebGrease.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Helpers.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Mvc.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Optimization.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Razor.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Newtonsoft.Json.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Antlr3.Runtime.pdb
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\EntityFramework.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.csproj.AssemblyReference.cache
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.csproj.CoreCompileInputs.cache
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.csproj.CopyComplete
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.pdb
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.Migrations.MedicineShopDbContext.ScriptA.resources
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.csproj.GenerateResource.cache
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\PagedList.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\PagedList.Mvc.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\PagedList.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M3\OnlineMedicineShop\OnlineMedicineShop\bin\PagedList.Mvc.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\OnlineMedicineShop.dll.config
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\OnlineMedicineShop.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\OnlineMedicineShop.pdb
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csc.exe
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csc.exe.config
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csc.rsp
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csi.exe
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csi.exe.config
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csi.rsp
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.AppContext.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Console.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Net.Http.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\vbc.exe
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\vbc.exe.config
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\vbc.rsp
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Antlr3.Runtime.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\EntityFramework.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Newtonsoft.Json.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Owin.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\PagedList.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\PagedList.Mvc.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Helpers.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Mvc.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Optimization.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Razor.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\WebGrease.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\PagedList.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\PagedList.Mvc.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Helpers.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Mvc.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Optimization.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Razor.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Newtonsoft.Json.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Antlr3.Runtime.pdb
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\EntityFramework.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.csproj.AssemblyReference.cache
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.Migrations.MedicineShopDbContext.ScriptA.resources
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.csproj.GenerateResource.cache
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.csproj.CoreCompileInputs.cache
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.csproj.CopyComplete
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\MainFinal\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.pdb
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\OnlineMedicineShop.dll.config
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\OnlineMedicineShop.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\OnlineMedicineShop.pdb
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csc.exe
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csc.exe.config
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csc.rsp
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csi.exe
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csi.exe.config
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csi.rsp
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.AppContext.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Console.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Net.Http.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\vbc.exe
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\vbc.exe.config
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\vbc.rsp
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Antlr3.Runtime.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\EntityFramework.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Newtonsoft.Json.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Owin.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\PagedList.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\PagedList.Mvc.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Helpers.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Mvc.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Optimization.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Razor.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\WebGrease.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\PagedList.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\PagedList.Mvc.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Helpers.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Mvc.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Optimization.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Razor.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Newtonsoft.Json.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Antlr3.Runtime.pdb
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\EntityFramework.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.csproj.AssemblyReference.cache
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.Migrations.MedicineShopDbContext.ScriptA.resources
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.csproj.GenerateResource.cache
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.csproj.CoreCompileInputs.cache
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.csproj.CopyComplete
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.dll
+C:\Users\Kazi Md Nurul Islam\Desktop\M4\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.pdb
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\OnlineMedicineShop.dll.config
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\OnlineMedicineShop.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\OnlineMedicineShop.pdb
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csc.exe
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csc.exe.config
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csc.rsp
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csi.exe
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csi.exe.config
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\csi.rsp
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.Managed.Core.targets
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.AppContext.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Collections.Immutable.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Console.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Globalization.Calendars.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.IO.Compression.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.IO.FileSystem.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Net.Http.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Net.Sockets.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Reflection.Metadata.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.ValueTuple.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Xml.XmlDocument.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Xml.XPath.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\vbc.exe
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\vbc.exe.config
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\vbc.rsp
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\VBCSCompiler.exe
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\roslyn\VBCSCompiler.exe.config
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Antlr3.Runtime.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\EntityFramework.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\EntityFramework.SqlServer.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.Core.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Cookies.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Facebook.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Google.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.OAuth.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Twitter.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Web.Infrastructure.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Newtonsoft.Json.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Owin.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\PagedList.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\PagedList.Mvc.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Helpers.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Mvc.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Optimization.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Razor.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.Deployment.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.Razor.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\WebGrease.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\PagedList.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\PagedList.Mvc.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Helpers.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Mvc.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Optimization.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.Razor.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.Deployment.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\System.Web.WebPages.Razor.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Newtonsoft.Json.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Antlr3.Runtime.pdb
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\EntityFramework.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\EntityFramework.SqlServer.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.Core.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Facebook.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Cookies.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Google.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.Twitter.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.Owin.Security.OAuth.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.csproj.AssemblyReference.cache
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.Migrations.MedicineShopDbContext.ScriptA.resources
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.csproj.GenerateResource.cache
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.csproj.CoreCompileInputs.cache
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.csproj.CopyComplete
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.dll
+I:\My All IsDB Exam and project main file\OnlineMedicineShop MVC Database First Approach\OnlineMedicineShop\OnlineMedicineShop\obj\Debug\OnlineMedicineShop.pdb

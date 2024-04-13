@@ -1,0 +1,34 @@
+﻿@model OnlineMedicineShop.Models.MedicineModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>MedicineModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.MedicineName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MedicineName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DosageForm)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DosageForm)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.MedicineModelId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

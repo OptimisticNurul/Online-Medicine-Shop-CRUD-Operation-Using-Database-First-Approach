@@ -1,0 +1,64 @@
+﻿@model IEnumerable<OnlineMedicineShop.Models.Medicine>
+@using PagedList
+@using PagedList.Mvc
+
+<table class="table table-bordered table-striped table-sm mt-2">
+    <thead class="table-primary">
+        <tr>
+            <th></th>
+            <th></th>
+            <th>Manufacturer</th>
+            <th>Model</th>
+            <th>Manufacturing Date</th>
+            <th>In Stock?</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var m in Model)
+        {
+            <tr>
+                <td style="width:40px;text-align:center;">
+                    <button type="button" class="btn btn-sm show"><i class="bi bi-chevron-right"></i></button>
+                    <button type="button" class="btn btn-sm hide" style="display:none;"><i class="bi bi-chevron-up"></i></button>
+                </td>
+                <td style="width:45px;text-align:center">
+                    <img src="~/Images/@m.Picture" class="rounded-circle" style="width:32px;" />
+                </td>
+                <td>@m.Manufacturer.ManufacturerName</td>
+                <td>@m.MedicineModel.MedicineName</td>
+                <td>@m.ManufacturingDate.ToString("yyyy-MM-dd")</td>
+                <td>@(m.InStock ? "Yes" : "No")</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", "Medicines", new { id = m.MedicineId }, new { @class = "btn btn-outline-success btn-sm" })
+                    @Html.ActionLink("Delete", "Delete", "Medicines", new { id = m.MedicineId }, new { @class = "btn btn-outline-danger btn-sm" })
+                </td>
+            </tr>
+            <tr style="display:none;">
+                <td></td>
+                <td colspan="6">
+                    <h4>Inventories</h4>
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Dosage Form</th>
+                                <th>Price</th>
+                                <th>Quantity</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var inventory in m.Inventories)
+                            {
+                                <tr>
+                                    <td>@inventory.DosageForm</td>
+                                    <td>@inventory.Price</td>
+                                    <td>@inventory.Quantity</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

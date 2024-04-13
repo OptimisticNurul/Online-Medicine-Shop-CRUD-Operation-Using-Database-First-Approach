@@ -1,0 +1,47 @@
+﻿@model IEnumerable<OnlineMedicineShop.Models.MedicineModel>
+
+@{
+    ViewBag.Title = "MedicineModel Index";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">MedicineModel</h2>
+
+    <div class="row mt-4">
+        <div class="col-md-10 offset-md-1">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Medicine Name</th>
+                        <th>Dosage Form</th>
+                        <th class="text-right">Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@Html.DisplayFor(modelItem => item.MedicineName)</td>
+                            <td>@Html.DisplayFor(modelItem => item.DosageForm)</td>
+                            <td class="text-right">
+                                <div class="btn-group" role="group">
+                                    @Html.ActionLink("Edit", "Edit", new { id = item.MedicineModelId }, new { @class = "btn btn-outline-primary btn-sm" })
+                                    @Html.ActionLink("Details", "Details", new { id = item.MedicineModelId }, new { @class = "btn btn-outline-info btn-sm" })
+                                    @Html.ActionLink("Delete", "Delete", new { id = item.MedicineModelId }, new { @class = "btn btn-outline-danger btn-sm" })
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="row mt-3">
+        <div class="col-md-10 offset-md-1">
+            <div class="text-right">
+                @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-primary" })
+            </div>
+        </div>
+    </div>
+</div>

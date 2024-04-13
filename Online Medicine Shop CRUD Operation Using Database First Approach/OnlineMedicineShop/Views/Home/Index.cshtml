@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Vendor and Invoice Aggregates";
+}
+
+<div class="container mt-5 text-center">
+    <h2 class="display-4">Vendor and Invoice Aggregates</h2>
+    <div class="table-responsive mt-4">
+        <table class="table table-bordered table-striped table-hover">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Total Vendors</th>
+                    <th>Minimum Invoice Amount</th>
+                    <th>Maximum Invoice Amount</th>
+                    <th>Average Invoice Amount</th>
+                    <th>Total Invoice Amount</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@ViewBag.NumberOfVendors</td>
+                    <td>@ViewBag.InvoiceMin</td>
+                    <td>@ViewBag.InvoiceMax</td>
+                    <td>@ViewBag.InvoiceAvg</td>
+                    <td>@ViewBag.InvoiceSum</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

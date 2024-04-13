@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="APModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Invoices">
+          <Key>
+            <PropertyRef Name="InvoiceID" />
+          </Key>
+          <Property Name="InvoiceID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="VendorID" Type="int" Nullable="false" />
+          <Property Name="InvoiceNumber" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="InvoiceDate" Type="smalldatetime" Nullable="false" />
+          <Property Name="InvoiceTotal" Type="money" Nullable="false" />
+          <Property Name="PaymentTotal" Type="money" Nullable="false" />
+          <Property Name="CreditTotal" Type="money" Nullable="false" />
+          <Property Name="TermsID" Type="int" Nullable="false" />
+          <Property Name="InvoiceDueDate" Type="smalldatetime" Nullable="false" />
+          <Property Name="PaymentDate" Type="smalldatetime" />
+        </EntityType>
+        <EntityType Name="Vendors">
+          <Key>
+            <PropertyRef Name="VendorID" />
+          </Key>
+          <Property Name="VendorID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="VendorName" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="VendorAddress1" Type="varchar" MaxLength="50" />
+          <Property Name="VendorAddress2" Type="varchar" MaxLength="50" />
+          <Property Name="VendorCity" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="VendorState" Type="char" MaxLength="2" Nullable="false" />
+          <Property Name="VendorZipCode" Type="varchar" MaxLength="20" Nullable="false" />
+          <Property Name="VendorPhone" Type="varchar" MaxLength="50" />
+          <Property Name="VendorContactLName" Type="varchar" MaxLength="50" />
+          <Property Name="VendorContactFName" Type="varchar" MaxLength="50" />
+          <Property Name="DefaultTermsID" Type="int" Nullable="false" />
+          <Property Name="DefaultAccountNo" Type="int" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_Invoices_Vendors">
+          <End Role="Vendors" Type="Self.Vendors" Multiplicity="1" />
+          <End Role="Invoices" Type="Self.Invoices" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Vendors">
+              <PropertyRef Name="VendorID" />
+            </Principal>
+            <Dependent Role="Invoices">
+              <PropertyRef Name="VendorID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="APModelStoreContainer">
+          <EntitySet Name="Invoices" EntityType="Self.Invoices" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Vendors" EntityType="Self.Vendors" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Invoices_Vendors" Association="Self.FK_Invoices_Vendors">
+            <End Role="Vendors" EntitySet="Vendors" />
+            <End Role="Invoices" EntitySet="Invoices" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="APModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Invoice">
+          <Key>
+            <PropertyRef Name="InvoiceID" />
+          </Key>
+          <Property Name="InvoiceID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="VendorID" Type="Int32" Nullable="false" />
+          <Property Name="InvoiceNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="InvoiceDate" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="InvoiceTotal" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+          <Property Name="PaymentTotal" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+          <Property Name="CreditTotal" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+          <Property Name="TermsID" Type="Int32" Nullable="false" />
+          <Property Name="InvoiceDueDate" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="PaymentDate" Type="DateTime" Precision="0" />
+          <NavigationProperty Name="Vendor" Relationship="Self.FK_Invoices_Vendors" FromRole="Invoices" ToRole="Vendors" />
+        </EntityType>
+        <EntityType Name="Vendor">
+          <Key>
+            <PropertyRef Name="VendorID" />
+          </Key>
+          <Property Name="VendorID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="VendorName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="VendorAddress1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="VendorAddress2" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="VendorCity" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="VendorState" Type="String" MaxLength="2" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="VendorZipCode" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="VendorPhone" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="VendorContactLName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="VendorContactFName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="DefaultTermsID" Type="Int32" Nullable="false" />
+          <Property Name="DefaultAccountNo" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Invoices" Relationship="Self.FK_Invoices_Vendors" FromRole="Vendors" ToRole="Invoices" />
+        </EntityType>
+        <Association Name="FK_Invoices_Vendors">
+          <End Role="Vendors" Type="Self.Vendor" Multiplicity="1" />
+          <End Role="Invoices" Type="Self.Invoice" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Vendors">
+              <PropertyRef Name="VendorID" />
+            </Principal>
+            <Dependent Role="Invoices">
+              <PropertyRef Name="VendorID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="APDbContext" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Invoices" EntityType="Self.Invoice" />
+          <EntitySet Name="Vendors" EntityType="Self.Vendor" />
+          <AssociationSet Name="FK_Invoices_Vendors" Association="Self.FK_Invoices_Vendors">
+            <End Role="Vendors" EntitySet="Vendors" />
+            <End Role="Invoices" EntitySet="Invoices" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="APModelStoreContainer" CdmEntityContainer="APDbContext">
+          <EntitySetMapping Name="Invoices">
+            <EntityTypeMapping TypeName="APModel.Invoice">
+              <MappingFragment StoreEntitySet="Invoices">
+                <ScalarProperty Name="InvoiceID" ColumnName="InvoiceID" />
+                <ScalarProperty Name="VendorID" ColumnName="VendorID" />
+                <ScalarProperty Name="InvoiceNumber" ColumnName="InvoiceNumber" />
+                <ScalarProperty Name="InvoiceDate" ColumnName="InvoiceDate" />
+                <ScalarProperty Name="InvoiceTotal" ColumnName="InvoiceTotal" />
+                <ScalarProperty Name="PaymentTotal" ColumnName="PaymentTotal" />
+                <ScalarProperty Name="CreditTotal" ColumnName="CreditTotal" />
+                <ScalarProperty Name="TermsID" ColumnName="TermsID" />
+                <ScalarProperty Name="InvoiceDueDate" ColumnName="InvoiceDueDate" />
+                <ScalarProperty Name="PaymentDate" ColumnName="PaymentDate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Vendors">
+            <EntityTypeMapping TypeName="APModel.Vendor">
+              <MappingFragment StoreEntitySet="Vendors">
+                <ScalarProperty Name="VendorID" ColumnName="VendorID" />
+                <ScalarProperty Name="VendorName" ColumnName="VendorName" />
+                <ScalarProperty Name="VendorAddress1" ColumnName="VendorAddress1" />
+                <ScalarProperty Name="VendorAddress2" ColumnName="VendorAddress2" />
+                <ScalarProperty Name="VendorCity" ColumnName="VendorCity" />
+                <ScalarProperty Name="VendorState" ColumnName="VendorState" />
+                <ScalarProperty Name="VendorZipCode" ColumnName="VendorZipCode" />
+                <ScalarProperty Name="VendorPhone" ColumnName="VendorPhone" />
+                <ScalarProperty Name="VendorContactLName" ColumnName="VendorContactLName" />
+                <ScalarProperty Name="VendorContactFName" ColumnName="VendorContactFName" />
+                <ScalarProperty Name="DefaultTermsID" ColumnName="DefaultTermsID" />
+                <ScalarProperty Name="DefaultAccountNo" ColumnName="DefaultAccountNo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
